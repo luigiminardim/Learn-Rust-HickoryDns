@@ -1,0 +1,6 @@
+[package]
+name = "learn_rust_hickory_Dns"
+version = "0.0.0"
+edition = "2021"
+
+[dependencies]
